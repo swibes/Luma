@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "",
-  "sha256": "",
-  "notes": "Initial release of Luma."
+    "version":  "1.0.0",
+    "download_url":  "https://github.com/swibes/Luma/releases/download/v1.0.0/Luma.exe",
+    "sha256":  "299a866889c7861710c09d8dbb18fa2e4c7aa5a7243529b151b3d48a5f6f18ce",
+    "notes":  "Luma 1.0.0 update"
 }
