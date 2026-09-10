@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.0",
-    "download_url":  "https://github.com/swibes/Luma/releases/download/v2.0.0/Luma.exe",
-    "sha256":  "26799bb922d35e3424e874f98fc9c697144ba4840b254b7e5528a30e5326d245",
-    "notes":  "Luma 2.0.0 update"
+    "version":  "2.0.1",
+    "download_url":  "https://github.com/swibes/Luma/releases/download/v2.0.1/Luma.exe",
+    "sha256":  "1646721e3f1437c7530305ecb44d1c31997fc859a4841e7ec86d409c3857a168",
+    "notes":  "Luma 2.0.1 update"
 }
