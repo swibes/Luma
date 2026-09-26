@@ -1,6 +1,6 @@
 # Set up Discord Rich Presence in Luma
 
-Luma can optionally show a small activity on your Discord profile while you use the app. This setup uses your own Discord application ID. Rich Presence is optional and can be turned off in Luma at any time.
+Luma can optionally show a small activity on your Discord profile while you use it. This setup uses your own Discord application ID. Rich Presence is optional and can be turned off in Luma at any time.
 
 ## 1. Create a Discord application
 
@@ -13,12 +13,12 @@ You only need the Application ID. Do **not** create a bot, copy a bot token, or 
 
 ## 2. Add the Luma image for Rich Presence
 
-The Discord presence fix source patch adds a Luma picture and a **GitHub** button. These appear after you apply the patch and rebuild Luma.
+The Luma presence artwork is available as a standalone PNG in this repository: [Download Luma-Presence-Image.png](https://github.com/swibes/Luma/raw/refs/heads/main/Luma-Presence-Image.png).
 
-1. Use the included `Luma-Presence-Image.png` from the **Luma v2.0.2 Discord Presence Fix** ZIP.
-2. In your Discord application, open **General Information** and upload that PNG as the **App Icon**.
+1. Download the PNG using the link above.
+2. In your Discord application, open **General Information** and upload that PNG as the **App Icon** (optional).
 3. Open **Rich Presence → Art Assets**, upload the same PNG, and name the asset `luma` (lowercase).
-4. Discord recommends square 1024 × 1024 Rich Presence art. The included image is 1024 × 1024.
+4. The image is 1024 × 1024, suitable for Rich Presence art.
 
 The code requests the exact asset key `luma`. If it is missing, Luma keeps a text-only activity instead of dropping the activity.
 
@@ -29,7 +29,7 @@ The code requests the exact asset key `luma`. If it is missing, Luma keeps a tex
 3. Find **Discord Rich Presence**, turn it on, and paste the Application ID you copied.
 4. Save settings.
 
-With the Discord presence fix applied, the activity includes a clickable **GitHub** button linking to [swibes/Luma](https://github.com/swibes/Luma). The activity is generic and does not include media titles, links, or local file paths.
+With the Discord presence fix applied, the activity includes a clickable **GitHub** button linking to [swibes/Luma](https://github.com/swibes/Luma). Discord does not show your own Rich Presence buttons to you, but other people viewing your profile can see them. The activity is generic and does not include media titles, links, or local file paths.
 
 ## 4. Choose who can see the activity
 
