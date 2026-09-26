@@ -14,6 +14,10 @@ Made by [swibes](https://linktr.ee/swibes)
 - YouTube Library support
 - Automatic updates
 
+## Discord Rich Presence
+
+Luma can optionally show a generic activity in Discord while you use it. Follow the [Discord Rich Presence setup tutorial](DISCORD_RICH_PRESENCE.md) to create your application ID and enable the feature. Luma does not share media titles, links, or local paths.
+
 ## ♡ Connecting Your YouTube Account
 
 Luma can connect to your YouTube account to display supported private library content, such as your **Liked Videos**.
