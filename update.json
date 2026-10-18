@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.5/Luma.exe",
-  "sha256": "9d57aa523daa9353f7bf6bebb3770772468eb0fda9e82c8f1bb1527245088755",
-  "notes": "Luma 2.0.5: filtered local cookies for supported sites and custom file names for Home, Trim Media, and playlist downloads."
+  "version": "2.0.6",
+  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.6/Luma.exe",
+  "sha256": "6d4d53e890111cfa94d0f325d6969d60819725aad57831af33d787ec4c5b4947",
+  "notes": "Luma 2.0.6: customizable image and GIF backgrounds, a rounded Modern Studio sidebar, a local music queue with folder import, and a one-time What's New popup."
 }
