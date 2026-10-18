@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.6/Luma.exe",
-  "sha256": "6d4d53e890111cfa94d0f325d6969d60819725aad57831af33d787ec4c5b4947",
-  "notes": "Luma 2.0.6: customizable image and GIF backgrounds, a rounded Modern Studio sidebar, a local music queue with folder import, and a one-time What's New popup."
+  "version": "2.0.7",
+  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.7/Luma.exe",
+  "sha256": "263ad2bfbdae1d985d07955e34e77bbb69d54651019d2a948113edfa2a74211e",
+  "notes": "Luma 2.0.7: fixes the custom theme editor and settings header, smooths gradient picking, and adds soundtrack controls and deeper appearance customization."
 }
