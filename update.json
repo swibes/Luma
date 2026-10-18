@@ -1,6 +1,6 @@
 {
-  "version": "2.0.4",
-  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.4/Luma.exe",
-  "sha256": "e8fe4a9efb9b43b9e79c9a57a0f26b2fbffe3b0c9935721ed9601935c163ea61",
-  "notes": "Luma 2.0.4: Modern layout, custom backgrounds, video crop and speed, audio trimming, and window resize fix."
+  "version": "2.0.5",
+  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.5/Luma.exe",
+  "sha256": "9d57aa523daa9353f7bf6bebb3770772468eb0fda9e82c8f1bb1527245088755",
+  "notes": "Luma 2.0.5: filtered local cookies for supported sites and custom file names for Home, Trim Media, and playlist downloads."
 }
