@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/swibes/Luma/releases/download/v2.1.0/Luma.exe",
-  "sha256": "03b28c41e84d7d0d18a67c90aa00e2f68bd57d60b9763e9a3760b709a0404a53",
-  "notes": "Luma 2.1.0 update"
+  "version": "2.1.1",
+  "download_url": "https://github.com/swibes/Luma/releases/download/v2.1.1/Luma.exe",
+  "sha256": "9bb0581b2c94cd92906a84a9addc0fc900e1ceadbce79063fad4288d6bcd7ab8",
+  "notes": "Luma 2.1.1 soundtrack and memory improvements"
 }
