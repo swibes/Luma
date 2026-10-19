@@ -1,6 +1,6 @@
 {
-  "version": "2.0.7",
-  "download_url": "https://github.com/swibes/Luma/releases/download/v2.0.7/Luma.exe",
-  "sha256": "263ad2bfbdae1d985d07955e34e77bbb69d54651019d2a948113edfa2a74211e",
-  "notes": "Luma 2.0.7: fixes the custom theme editor and settings header, smooths gradient picking, and adds soundtrack controls and deeper appearance customization."
+  "version": "2.1.0",
+  "download_url": "https://github.com/swibes/Luma/releases/download/v2.1.0/Luma.exe",
+  "sha256": "03b28c41e84d7d0d18a67c90aa00e2f68bd57d60b9763e9a3760b709a0404a53",
+  "notes": "Luma 2.1.0 update"
 }
